@@ -4,7 +4,7 @@ A responsive React app for browsing, searching, and viewing details of movies/TV
 
 ## Live Demo
 
-[Add your deployed link here after deploying to Vercel/Netlify]
+movie-explorer-beta-steel.vercel.app
 
 ## Features
 
